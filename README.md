@@ -13,8 +13,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Stephen Sing**(https://github.com/sing-stephen95)
-* **Amy Liu**(https://github.com/atliu)
+* [Stephen Sing](https://github.com/sing-stephen95)
+* [Amy Liu](https://github.com/atliu)
 
 See also the list of [contributors](https://github.com/sing-stephen95/QuoteMe/graphs/contributors) who participated in this project.
 
