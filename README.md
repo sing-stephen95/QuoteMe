@@ -11,6 +11,10 @@ Fetches quotes based on search index from BrainyQuote.com for use with Amazon Al
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/sing-stephen95/QuoteMe/tags). 
 
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
 ## Authors
 
 * [Stephen Sing](https://github.com/sing-stephen95)
