@@ -18,7 +18,11 @@ class QuoteMe:
         for x in self.soup.find(id="quotesList").find_all(title="view quote"):
             print "\n" + x.text
             print x.find_next_sibling().text
-
+		
+    def getRepeatResult(self):
+        """Iterates to the same element in the array retrieving the same result"""
+        print "hello"
+		
     def getNextResult(self):
     	"""Iterates to the next element in the array retrieving the next result"""
     	print "hello"
@@ -26,7 +30,11 @@ class QuoteMe:
     def getPreviousResult(self):
     	"""Iterates to the previous element in the array retrieving the previous result"""
     	print "hello"
-
+	
+    def getRandomResult(self):
+        """Returns random quote"""
+        print "hello"
+	
 	def getAuthor(self):
 		"""Returns the author"""
 		print "hello"
